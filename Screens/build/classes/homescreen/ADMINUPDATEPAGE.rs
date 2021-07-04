@@ -1,0 +1,2 @@
+homescreen.ADMINUPDATEPAGE
+homescreen.panell
